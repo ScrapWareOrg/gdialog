@@ -48,7 +48,7 @@ def main(args):
     else:
         btns = GTK_BUTTONS_OK
 
-    run(msgs, labl, titl, icon, btns, txvw)
+    run(msgs, labl, titl, icon, btns, txvw, mkup)
 
 ######################################################################
 # MAIN
